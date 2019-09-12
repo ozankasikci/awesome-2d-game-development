@@ -1,4 +1,4 @@
-# Awesome 2D Game Engines
+# Awesome 2D Game Development
 
 
 ## Legends
@@ -16,6 +16,6 @@
 * [LÖVE](https://love2d.org) - (C++, Lua)
 * [MonoGame](http://www.monogame.net/) - (C#)
 * [Orx](https://orx-project.org) - (C, C++, Objective C)
-* [Unity:money_with_wings:](https://unity.com) - (C#)
+* [Unity:money_with_wings:](https://unity.com) - (C#, Javascript)
 * [Unreal Engine](https://www.unrealengine.com/en-US/) - (C++)
 * [Phaser](https://phaser.io) - (Javascript, Typescript)
