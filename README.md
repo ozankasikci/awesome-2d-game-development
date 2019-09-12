@@ -6,7 +6,7 @@
 - Monetized :heavy_dollar_sign:
 
 ## Contents
-* [Cocos2d-x](https://cocos2d-x.org) - (C++, Lua, Javascript, Typescript(Cocos Creator only)
+* [Cocos2d-x](https://cocos2d-x.org) - (C++, Lua, Javascript, Typescript(Cocos Creator only))
 * [LÖVE](https://love2d.org) - (C++, Lua)
 * [Godot](https://godotengine.org/) - (C++, C#)
 * [LibGDX](https://libgdx.badlogicgames.com) - (Java)
