@@ -46,8 +46,8 @@
 
 #### Animation Tools
 * [DragonBones](https://dragonbones.github.io/en/index.html) - Open-source 2D skeletal animation
-* [Spriter:money_with_wings:](https://brashmonkey.com/spriter-pro/) - 2D animation with modular workflow
-* [Spine:heavy_dollar_sign:](http://esotericsoftware.com/) - Professional 2D skeletal animation
+* [Spriter :money_with_wings:](https://brashmonkey.com/spriter-pro/) - 2D animation with modular workflow
+* [Spine :heavy_dollar_sign:](http://esotericsoftware.com/) - Professional 2D skeletal animation
 
 #### Audio Tools
 * [Bfxr](https://www.bfxr.net/) - Web-based sound effect generator
